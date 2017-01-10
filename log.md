@@ -15,3 +15,10 @@ Should be fun.
 **Thoughts**:
 The tutorials were pretty straightforward and intuitive, so I did not encounter any major hurdles.
 Today was the last day of Winter Break, which means that second semester of senior year begins tomorrow. Hopefully, the workload does not prevent me from continuing to learn web development and put in my committed 1 hour/day.
+
+### Day 3: January 9, 2017
+**Today's Progress**:
+* Completed Bootstrap tutorials
+
+**Thoughts**:
+Not as much time today, unfortunately. Will put in more work tomorrow.
