@@ -22,3 +22,11 @@ Today was the last day of Winter Break, which means that second semester of seni
 
 **Thoughts**:
 Not as much time today, unfortunately. Will put in more work tomorrow.
+
+### Day 4: January 10, 2017
+**Today's Progress**:
+* Completed the rest of the introductory JQuery Tutorials
+* Made a lot of progress starting on the Alan Turing Tribute webpage project: http://codepen.io/kha/pen/egJKmJ?editors=1100
+
+**Thoughts**:
+Happy with the progress I was able to make today on finishing up the introductory FreeCodeCamp tutorials as well as diving into the front end projects. I really am enjoying the design aspect of web development, as I did with iOS development. Hoping to eventually get experienced with JQuery and cool interactive front end web development (maybe for my personal site?).
