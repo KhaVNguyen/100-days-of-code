@@ -30,3 +30,10 @@ Not as much time today, unfortunately. Will put in more work tomorrow.
 
 **Thoughts**:
 Happy with the progress I was able to make today on finishing up the introductory FreeCodeCamp tutorials as well as diving into the front end projects. I really am enjoying the design aspect of web development, as I did with iOS development. Hoping to eventually get experienced with JQuery and cool interactive front end web development (maybe for my personal site?).
+
+### Day 5: January 12, 2017
+**Today's Progress**:
+* Added an image slideshow, timeline, quotes, and quick navigation buttons to my Alan Turing tribute webpage
+* Completed 'Tribute Page' project on FreeCodeCamp: http://codepen.io/kha/pen/egJKmJ
+
+**Thoughts** Had fun creating my first webpage from scratch and implementing features such as the slideshow (using help from W3) and the navigation menu buttons. Made up coding time for skipping yesterday and will begin on the personal webpage (portfolio) tomorrow, hopefully.
