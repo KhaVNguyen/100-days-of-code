@@ -36,4 +36,16 @@ Happy with the progress I was able to make today on finishing up the introductor
 * Added an image slideshow, timeline, quotes, and quick navigation buttons to my Alan Turing tribute webpage
 * Completed 'Tribute Page' project on FreeCodeCamp: http://codepen.io/kha/pen/egJKmJ
 
-**Thoughts** Had fun creating my first webpage from scratch and implementing features such as the slideshow (using help from W3) and the navigation menu buttons. Made up coding time for skipping yesterday and will begin on the personal webpage (portfolio) tomorrow, hopefully.
+**Thoughts**: Had fun creating my first webpage from scratch and implementing features such as the slideshow (using help from W3) and the navigation menu buttons. Made up coding time for skipping yesterday and will begin on the personal webpage (portfolio) tomorrow, hopefully.
+
+### Day 6: January 13, 2017
+**Today's Progress**:
+* Worked on setting up the basic structure for my personal website / portfolio. Messed around with the "rotating text" library with a lot of bugs.
+
+**Thoughts**: Good to finally get started on the project that made me want to get into web development in the first place. Will probably spend quite some time here because I want to fully personalize the site.
+
+### Day 7: January 14, 2017
+**Today's Progress**:
+* Continued working on the individual sections of the website, focusing on the "intro" page and the "about me" page.
+
+**Thoughts**: Running into a lot of issues in terms of creating a responsive website. Research and experimentation is a good learning experience though.
